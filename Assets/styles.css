@@ -1,3 +1,6 @@
+*{
+    font-family: 'Nunito';
+}
 span{
     font-size: 30px;
     font-weight: bold;
@@ -7,7 +10,6 @@ margin-left: 10px;
 color:red;
 }
 nav{
-position: fixed;
 background: #ffffff;
 width: 100%;
 padding: 10px 0;
@@ -55,4 +57,124 @@ color: black;
     color:beige;
     font-weight: bold;
   
+  }
+  .btns{
+    background-color: #EC4067;
+    text-align: center;
+    height: 55px;
+  width: 170px;
+  border-radius: 5px;
+  border: none;
+  margin: 0 10px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 10px;
+  }
+  .content1{
+      display: inline-block;
+      font-size: 25px;
+      margin-left: 50px;
+      padding-left: 150px;
+  }
+  .content1 h2{
+      color:#EC4067
+  }
+  .btn-1{
+    text-align: center;
+    height: 55px;
+  width: 170px;
+      background-color: #ffffff;
+      border: 2px solid  #EC4067;
+      color: #EC4067;
+      margin: 0 10px;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 10px;
+  }
+  .body-content{
+      margin-top: 100px;
+      display: flex;
+      flex-direction: column;
+  }
+  .box1{
+      margin-bottom: 55px;
+      text-align: right;
+  }
+  .box1 img{
+      float: left;
+  }
+  .txt1{
+      padding-left: 300px;
+      margin-top: 100px;
+  }
+  .box2{
+    margin-bottom: 25px;
+    margin-top:100px;
+    text-align: left;
+}
+.box2 img{
+    float: right;
+}
+.txt2{
+    padding-left: 300px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.box3{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25px;
+    margin-top: 100px;
+}
+.box3 img{
+    float:left;
+    height: fit-content;
+    width: fit-content;
+}
+.txt3{
+    padding-left: 300px;
+    margin-top: 100px;
+    text-align: left;
+}
+  .menu-1{
+      display: flex;
+      flex-direction: row;
+      max-width: fit-content;
+      margin-top: 50px;
+      margin-left: 20px;
+  }
+  .menu-1 img{
+      height: 400px;
+      width:400px;
+  }
+  .content-main{
+    margin-top: 100px;
+    text-align: left; 
+  }
+  .content-main img{
+      float: right;
+      width: 900px;
+      height: 500px;
+  }
+  /*.txt4{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 25
+  }*/
+  .menu-2{
+      margin-top: 400px;
+  }
+  .menu-2 h2{
+      color:#EC4067;
+      margin-top: 25px;;
+  }
+  .content-main h2{
+      color: #EC4067;
+  }
+  .foot01{
+      height: 100px;
+      width:vh;
+      background-color: rgb(185, 179, 179);
+      text-align: center;
   }
