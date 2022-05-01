@@ -1,5 +1,5 @@
 *{
-    font-family: 'Nunito';
+    font-family: 'nunito', Arial, Helvetica, sans-serif;
 }
 span{
     font-size: 30px;
@@ -104,8 +104,9 @@ color: black;
       float: left;
   }
   .txt1{
-      padding-left: 300px;
+      padding-left: 100px;
       margin-top: 100px;
+      font-size: 30px;
   }
   .box2{
     margin-bottom: 25px;
@@ -116,7 +117,7 @@ color: black;
     float: right;
 }
 .txt2{
-    padding-left: 300px;
+    padding-left: 100px;
     margin-top: 100px;
     font-size: 30px;
 }
@@ -133,9 +134,10 @@ color: black;
     width: fit-content;
 }
 .txt3{
-    padding-left: 300px;
+    padding-left: 100px;
     margin-top: 100px;
     text-align: left;
+    font-size: 30px;
 }
   .menu-1{
       display: flex;
@@ -143,19 +145,27 @@ color: black;
       max-width: fit-content;
       margin-top: 50px;
       margin-left: 20px;
+      width: max-content;
+      height: max-content;
   }
   .menu-1 img{
-      height: 400px;
-      width:400px;
+  }
+  .box4{
+      margin-right: 100px;
+  }
+  .box5{
+      margin-right: 100px;
+  }
+  .box6{
+      margin-right: 100px;
   }
   .content-main{
     margin-top: 100px;
     text-align: left; 
+    font-size: 30px;
   }
   .content-main img{
       float: right;
-      width: 900px;
-      height: 500px;
   }
   /*.txt4{
     display: flex;
@@ -163,7 +173,8 @@ color: black;
     margin-bottom: 25
   }*/
   .menu-2{
-      margin-top: 400px;
+      margin-top: 500px;
+      font-size: 30px;
   }
   .menu-2 h2{
       color:#EC4067;
@@ -172,9 +183,21 @@ color: black;
   .content-main h2{
       color: #EC4067;
   }
+  .txt-style p{
+      margin-top: 100px;
+      font-size: 20px;
+  }
   .foot01{
       height: 100px;
       width:vh;
       background-color: rgb(185, 179, 179);
       text-align: center;
+      font-family: 40px;
+  }
+  .foot01 img{
+      width: 20px;
+      height: 20px;
+  }
+  .txt1-style h2{
+      font-size: 30px;
   }

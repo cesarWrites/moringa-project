@@ -3,7 +3,7 @@
 ## Sarah Mukuti
 
 ## screenshot
-
+<img src ="./Assets/Screenshot from 2022-05-01 19-05-00.png">
 ## Description
 <p> This project is a  simple implemntation of a school's landing page that shows the major activities and services offered</p>
 
