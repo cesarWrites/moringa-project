@@ -1,4 +1,5 @@
-# Moringa landing page
+# Project description
+
 
 ## Author
 Sarah Mukuti

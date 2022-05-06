@@ -81,9 +81,8 @@ color: black;
       padding-left: 150px;
       justify-content: space-between;
   }
-  .content1 .btn-style{
+  .content1 button{
       margin-top: 50px;
-      display: inline;
   }
   .menu .img-right img{
       display: inline-flex;
