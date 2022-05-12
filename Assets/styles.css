@@ -4,6 +4,10 @@
     padding: 0;
     margin: 0;
 }
+body{
+    margin-right: 50px;
+    margin-left: 50px;
+}
 span{
     font-size: 30px;
     font-weight: bold;
@@ -72,6 +76,7 @@ color: black;
     font-size: 20px;
     font-weight: 500;
     padding: 0 10px;
+    color: #ffffff;
   }
   .content1{
       display: flex;
@@ -111,29 +116,25 @@ color: black;
       margin-top: 100px;
       display: flex;
       flex-direction: column;
-      padding: 30px;
   }
   .body-content button{
       font-size: 20px;
       text-align: center;
       color: #ffffff;
   }
-  .body-content p{
-      text-align: justify;
-      margin: 100px;
-      padding: 50px;
-  }
   .box1{
       margin-bottom: 55px;
-      text-align: right;
+      display: flex;
+      flex-direction: row;
   }
   .box1 img{
       float: left;
   }
   .txt1{
       font-size: 30px;
-      text-align: justify;
       margin-left: 50px;
+      margin-top: 100px;
+      margin-left: 30px;
   }
   .box2{
     margin-bottom: 25px;
@@ -145,7 +146,6 @@ color: black;
     float: right;
 }
 .txt2{
-    padding-left: 100px;
     font-size: 30px;
 }
 
