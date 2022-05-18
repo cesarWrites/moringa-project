@@ -227,3 +227,11 @@ color: black;
   .txt1-style h2{
       font-size: 30px;
   }
+  @media  screen and (max-width: 1000px) {
+      body{
+          padding-right: 0;
+          margin-right: 0;
+          width: fit-content;
+          position: relative;
+      }   
+  }
