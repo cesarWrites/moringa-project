@@ -23,8 +23,8 @@ color:red;
 nav{
 background: #ffffff;
 width: 100%;
-padding: 10px 0;
 z-index: 12;
+margin-top: 2%;
 }
 nav .menu{
 max-width: 1250px;
