@@ -24,7 +24,8 @@ nav{
 background: #ffffff;
 width: 100%;
 z-index: 12;
-margin-top: 2%;
+margin-top: 4%;
+font-size: 20px;
 }
 nav .menu{
 max-width: 1250px;
@@ -62,6 +63,20 @@ transition: all 0.3s ease;
 .menu ul li a:hover{
 background: #fff;
 color: black;
+}
+.btns-1{
+    margin-top: 0;
+    background-color: #EC4067;
+    text-align: center;
+    height: 55px;
+    width: 170px;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0 10px;
+    color: #ffffff;
+
 }
 .foot1{
     margin-top: 350px;
