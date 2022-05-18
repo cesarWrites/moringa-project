@@ -6,7 +6,7 @@
 Sarah Mukuti
 
 ## screenshot
-<img src ="./Assets/Screenshot from 2022-05-01 19-05-00.png">
+<img src ="./Assets/Screenshot from 2022-05-18 19-02-31.png">
 
 ### Requirements
 Access to a text editor and browser. 
